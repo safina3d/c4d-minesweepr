@@ -3,6 +3,9 @@
 
 Play Minesweeper on Cinema 4D
 
+Please visit: https://safina3d.blogspot.com
+
+
 ![Minesweeper Default](https://2.bp.blogspot.com/-4XRDPBu7wX0/WhwIyitZi-I/AAAAAAAAB90/0SmgPvatbrE_It5lzJDC-UoN6c7gFJSlACKgBGAs/s1600/minesweeper.png)
 ![Minesweeper Game Over](https://3.bp.blogspot.com/-RXk8Jo73Fck/WhwIyrwhZqI/AAAAAAAAB90/RxUWiaBPiAgFFrFHbiSfm0rfJcPaJ0RegCKgBGAs/s1600/minesweeper2.png)
 
