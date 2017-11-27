@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+
+# Author: safina3d
+# Blog: Safina3d.blogspot.com
+
 import os
 import math
 import c4d
@@ -43,10 +48,10 @@ class Helper:
 
 
 class Level:
-    """ 
+    """
     Percentage of mines
     ex: Easy = 0.1 = 10%
-        
+
     """
     EASY = 0.1
     MEDIUM = 0.3
